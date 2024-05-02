@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "name": "Smartphone",
+      "price": 999.99,
+      "id": "P1001",
+      "category": "Electronics"
+    },
+    {
+      "name": "Espresso Machine",
+      "price": 250.00,
+      "id": "P1002",
+      "category": "Home Appliances"
+    },
+    {
+      "name": "Electric Skateboard",
+      "price": 400.00,
+      "id": "P1003",
+      "category": "Outdoor Sports"
+    },
+    {
+      "name": "4K Television",
+      "price": 1500.00,
+      "id": "P1004",
+      "category": "Electronics"
+    },
+    {
+      "name": "Leather Wallet",
+      "price": 45.00,
+      "id": "P1005",
+      "category": "Accessories"
+    },
+    {
+      "name": "Yoga Mat",
+      "price": 20.00,
+      "id": "P1006",
+      "category": "Fitness"
+    },
+    {
+      "name": "Noise Cancelling Headphones",
+      "price": 300.00,
+      "id": "P1007",
+      "category": "Electronics"
+    },
+    {
+      "name": "Gourmet Dog Food",
+      "price": 60.00,
+      "id": "P1008",
+      "category": "Pet Supplies"
+    },
+    {
+      "name": "Mountain Bike",
+      "price": 800.00,
+      "id": "P1009",
+      "category": "Outdoor Sports"
+    },
+    {
+      "name": "Desk Lamp",
+      "price": 30.00,
+      "id": "P1010",
+      "category": "Home Decor"
+    }
+  ]
+}

@@ -89,7 +89,7 @@ export default function Book({data}: BookProps){
         data.catalog && <p>{data.catalog.availableCopies}</p>
       }
       {
-        authors.map((author: IAuthor) => {
+        authors.map((author: IAuthor, index: number) => {
         return (
           <div>
             <input type="checkbox" id={author.id} value={author.id} 

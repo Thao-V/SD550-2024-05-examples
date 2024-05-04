@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "id": "book2",
+      "title": "c++",
+      "isbn": "1111-0000",
+      "genre": "programming",
+      "format": "paper",
+      "authors": [
+        "author2",
+        "author1"
+      ],
+      "summary": "this is a good book",
+      "catalog": {
+        "numOfCopies": 10,
+        "availableCopies": 0
+      }
+    },
+    {
+      "id": "book3",
+      "title": "java2",
+      "isbn": "123-1234",
+      "genre": "programming",
+      "format": "paper",
+      "authors": [
+        "author1"
+      ],
+      "summary": "ok"
+    },
+    {
+      "id": "book4",
+      "title": "c#",
+      "isbn": "123",
+      "genre": "programming",
+      "format": "paper",
+      "authors": [],
+      "summary": "ok"
+    },
+    {
+      "id": "book5",
+      "title": "test1",
+      "isbn": "test1",
+      "genre": "programming",
+      "format": "paper",
+      "authors": [],
+      "summary": "ok"
+    }
+  ],
+  "authors": [
+    {
+      "id": "author1",
+      "firstname": "Thao",
+      "lastname": "Vu",
+      "phone": "641-123-5678",
+      "email": "thaovu@miu.edu",
+      "address": "Fairfield, IA, 52556"
+    },
+    {
+      "id": "author2",
+      "firstname": "John",
+      "lastname": "Smith",
+      "phone": "123",
+      "email": "js@miu.edu",
+      "address": "fairfield, IA, 52556"
+    },
+    {
+      "id": "author3",
+      "firstname": "Gellila",
+      "lastname": "Tafa",
+      "phone": "123",
+      "email": "gt@miu.edu",
+      "address": "fairfield, IA, 52556"
+    }
+  ],
+  "publishers": [
+    {
+      "id": "p1",
+      "name": "miu press",
+      "email": "info@miu.edu",
+      "phone": "123",
+      "address": "fairfield"
+    }
+  ]
+}

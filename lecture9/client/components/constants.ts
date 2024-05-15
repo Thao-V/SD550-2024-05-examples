@@ -1,0 +1,1 @@
+export const LOCAL_STORAGE_KEY = 'sd550-2024-05';

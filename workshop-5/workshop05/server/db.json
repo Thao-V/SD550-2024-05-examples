@@ -1,0 +1,30 @@
+{
+  "courses": [
+    {
+      "id": "C001",
+      "title": "Web Application Programming",
+      "faculty": "Asaad Saad",
+      "code": "CS472",
+      "rating": 4,
+      "reviews": [
+        {
+          "name": "Michael",
+          "rating": 3,
+          "comment": "It is a good course"
+        },
+        {
+          "name": "Thao",
+          "rating": 5,
+          "comment": "Test"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "U001",
+      "name": "Thao Vu",
+      "email": "thaovu@miu.edu"
+    }
+  ]
+}
